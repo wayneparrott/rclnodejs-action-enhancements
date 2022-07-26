@@ -1,0 +1,11 @@
+tests
+examples
+settings
+.vscode
+.editorconfig
+.eslint*
+tsconfig*
+.git*
+.husky
+.prettier*
+examples/test.ts
